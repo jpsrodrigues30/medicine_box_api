@@ -1,12 +1,117 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|c:\\users\\jpsro\\source\\repos\\tcc-backend\\medicine_box_api\\medicine-box-api\\medicine-box-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|solutionrelative:medicine-box-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|c:\\users\\jpsro\\source\\repos\\tcc-backend\\medicine_box_api\\medicine-box-api\\medicine-box-api\\configuration\\appsettingsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|solutionrelative:medicine-box-api\\configuration\\appsettingsconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|c:\\users\\jpsro\\source\\repos\\tcc-backend\\medicine_box_api\\medicine-box-api\\medicine-box-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|solutionrelative:medicine-box-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|c:\\users\\jpsro\\source\\repos\\tcc-backend\\medicine_box_api\\medicine-box-api\\medicine-box-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|solutionrelative:medicine-box-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|c:\\users\\jpsro\\source\\repos\\tcc-backend\\medicine_box_api\\medicine-box-api\\medicine-box-api\\medicine-box-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|solutionrelative:medicine-box-api\\medicine-box-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|c:\\users\\jpsro\\source\\repos\\tcc-backend\\medicine_box_api\\medicine-box-api\\medicine-box-api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F82AB84-FE8B-4264-A411-C241DCF2AE00}|medicine-box-api\\medicine-box-api.Api.csproj|solutionrelative:medicine-box-api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettingsConfig.cs",
+              "DocumentMoniker": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\Configuration\\AppSettingsConfig.cs",
+              "RelativeDocumentMoniker": "medicine-box-api\\Configuration\\AppSettingsConfig.cs",
+              "ToolTip": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\Configuration\\AppSettingsConfig.cs",
+              "RelativeToolTip": "medicine-box-api\\Configuration\\AppSettingsConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:06:18.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "medicine-box-api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "medicine-box-api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T10:58:34.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "medicine-box-api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\appsettings.Development.json",
+              "RelativeToolTip": "medicine-box-api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T10:58:28.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "medicine-box-api.http",
+              "DocumentMoniker": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\medicine-box-api.http",
+              "RelativeDocumentMoniker": "medicine-box-api\\medicine-box-api.http",
+              "ToolTip": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\medicine-box-api.http",
+              "RelativeToolTip": "medicine-box-api\\medicine-box-api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-02T10:58:19.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\Startup.cs",
+              "RelativeDocumentMoniker": "medicine-box-api\\Startup.cs",
+              "ToolTip": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\Startup.cs",
+              "RelativeToolTip": "medicine-box-api\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:57:42.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\Program.cs",
+              "RelativeDocumentMoniker": "medicine-box-api\\Program.cs",
+              "ToolTip": "C:\\Users\\jpsro\\source\\repos\\TCC-BACKEND\\medicine_box_api\\medicine-box-api\\medicine-box-api\\Program.cs",
+              "RelativeToolTip": "medicine-box-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:57:41.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

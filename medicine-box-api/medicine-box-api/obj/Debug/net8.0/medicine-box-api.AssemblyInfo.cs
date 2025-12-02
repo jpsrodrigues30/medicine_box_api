@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("medicine-box-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03ecd33e8d14134eb05bbe1a88c4d9836f43cb5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f6b1d516794ac987015caf4de8b3b6c366d956f")]
 [assembly: System.Reflection.AssemblyProductAttribute("medicine-box-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("medicine-box-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
